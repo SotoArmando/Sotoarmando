@@ -1,8 +1,8 @@
 ### Hi there 👋 am Armando
-
+![alt text](https://raw.githubusercontent.com/SotoArmando/Sotoarmando/main/SOTOARMANDo.png)
 <!--
 **SotoArmando/Sotoarmando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![alt text](https://github.com/Sotoarmando/Sotoarmando/blob/main/SOTOARMANDo.png?raw=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
