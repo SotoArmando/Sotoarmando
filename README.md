@@ -1,5 +1,5 @@
 ### Hi there 👋 am Armando
-![alt text](https://raw.githubusercontent.com/SotoArmando/Sotoarmando/main/SOTOARMANDo.png)
+
 <!--
 **SotoArmando/Sotoarmando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
