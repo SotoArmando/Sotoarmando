@@ -1,7 +1,5 @@
 ### Hi there 👋 am Armando
-    
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  
+
 :heart: Coding | :blue_heart: Anime
   
 - 📫 How to reach me:
